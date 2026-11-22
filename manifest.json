@@ -1,7 +1,7 @@
 {
   "id": "mm-canvas-export",
   "name": "MM Canvas Export",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "minAppVersion": "1.4.0",
   "description": "Export any canvas (even very complex and large ones) as an image file.",
   "author": "Math Grenier",
