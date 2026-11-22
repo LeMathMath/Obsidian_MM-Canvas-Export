@@ -5,7 +5,7 @@
   "minAppVersion": "1.4.0",
   "description": "Export any canvas (even very complex and large ones!) as an image file.",
   "author": "Math Grenier",
-  "authorUrl": "http://www.lemathmath.com",
+  "authorUrl": "https://lemathmath.wordpress.com/",
   "fundingUrl": "https://ko-fi.com/lemathmath",
   "isDesktopOnly": false
 }
