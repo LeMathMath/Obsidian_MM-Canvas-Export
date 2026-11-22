@@ -1,0 +1,6 @@
+.mm-canvas-export-path {
+  margin-top: -0.4em;
+  color: var(--text-muted);
+  font-size: var(--font-ui-smaller);
+  word-break: break-all;
+}
